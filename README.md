@@ -1,10 +1,10 @@
-# Available .FUND One-Word Domains (8,736)
+# Available .FUND One-Word Domains (8,734)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C733%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C736%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C734%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .fund one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 8,733-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,736 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,734 domains** on the canonical page below.
 
-**Public extract:** 8,733 rows · **Live catalog:** 8,736 domains
+**Public extract:** 8,733 rows · **Live catalog:** 8,734 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/fund`  
 **Best for:** founders, investors, studios
 
@@ -64,16 +64,16 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| goon.fund      | available | $15.99    | $92.99        | 80             | 36     | 5      | name.com                                            |
+| aaron.fund     | available | $92.98    | —             | 88             | 35     | 5      | namecheap                                           |
 | morgan.fund    | resell    | —         | —             | 64             | 82     | 6      | DNSPod, Inc.                                        |
 | event.fund     | premium   | $85.80    | $85.80        | 96             | 44     | 5      | namecheap                                           |
-| aaron.fund     | available | $92.98    | —             | 88             | 35     | 5      | namecheap                                           |
+| goon.fund      | available | $15.99    | $92.99        | 80             | 35     | 5      | name.com                                            |
 | mesh.fund      | resell    | —         | —             | 92             | 81     | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| sales.fund     | premium   | $520      | $520          | 66             | 41     | 5      | namecheap                                           |
-| lovely.fund    | available | $15.99    | $92.99        | 72             | 33     | 6      | name.com                                            |
+| sales.fund     | premium   | $520      | $520          | 66             | 42     | 5      | namecheap                                           |
+| pack.fund      | available | $15.99    | $92.99        | 100            | 32     | 4      | name.com                                            |
 | kick.fund      | resell    | —         | —             | 98             | 80     | 4      | DNSPod, Inc.                                        |
 | custom.fund    | premium   | $123.75   | $123.75       | 110            | 39     | 6      | name.com                                            |
-| pack.fund      | available | $15.99    | $92.99        | 100            | 32     | 4      | name.com                                            |
+| lovely.fund    | available | $15.99    | $92.99        | 72             | 32     | 6      | name.com                                            |
 | cat.fund       | resell    | —         | —             | 92             | 80     | 3      | DNSPod, Inc.                                        |
 | review.fund    | premium   | $1,040    | $1,040        | 94             | 39     | 6      | namecheap                                           |
 | aesthetic.fund | available | $15.99    | $92.99        | 88             | 31     | 9      | name.com                                            |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,733-row public sample | 8,736 live domains                               |
+| 8,733-row public sample | 8,734 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUND One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUND One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
