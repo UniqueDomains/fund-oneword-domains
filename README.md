@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fund one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,631 domains · **Median ask:** $27.57 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/fund`  
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | drops.fund        | available | $15.99    | —             | 52             | 25     | 5      | name.com                                            |
 | rocks.fund        | premium   | $250      | —             | 78             | 18     | 5      | name.com                                            |
 | pops.fund         | available | $15.99    | —             | 74             | 24     | 4      | name.com                                            |
-| appreciation.fund | premium   | $123.75   | —             | 88             | 13     | 12     | name.com                                            |
+| appreciation.fund | premium   | $123.75   | —             | 88             | 14     | 12     | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUND One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUND One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
