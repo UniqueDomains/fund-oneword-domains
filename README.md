@@ -1,10 +1,10 @@
-# Available .FUND One-Word Domains (11,632)
+# Available .FUND One-Word Domains (11,648)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C632%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C648%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .fund one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,632 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,648 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,632 domains · **Median ask:** $27.21 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,648 domains · **Median ask:** $25.40 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/fund`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| Eid.fund  | available | $15.99    | —             | high           | low    | 3      | name.com     |
+| clx.fund  | available | $11.98    | $92.98        | low            | low    | 3      | namecheap    |
 | cat.fund  | resell    | —         | —             | high           | high   | 3      | DNSPod, Inc. |
 | add.fund  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
-| avon.fund | available | $15.99    | —             | high           | low    | 4      | name.com     |
+| cxl.fund  | available | $11.98    | $92.98        | low            | low    | 3      | namecheap    |
 | aids.fund | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc. |
 | any.fund  | premium   | $123.75   | —             | high           | medium | 3      | name.com     |
-| busy.fund | available | $15.99    | —             | high           | low    | 4      | name.com     |
+| Eid.fund  | available | $15.99    | —             | high           | low    | 3      | name.com     |
 | beam.fund | resell    | —         | —             | medium         | medium | 4      | DNSPod, Inc. |
 | ear.fund  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
-| camo.fund | available | $15.99    | —             | high           | low    | 4      | name.com     |
+| xci.fund  | available | $11.98    | $92.98        | low            | low    | 3      | namecheap    |
 | chip.fund | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc. |
 | gag.fund  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
-| clam.fund | available | $15.99    | —             | high           | low    | 4      | name.com     |
+| ague.fund | available | $11.98    | $92.98        | low            | low    | 4      | namecheap    |
 | fine.fund | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc. |
 | hot.fund  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
-| disk.fund | available | $15.99    | —             | high           | low    | 4      | name.com     |
+| alky.fund | available | $11.98    | $92.98        | low            | low    | 4      | namecheap    |
 | just.fund | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc. |
 | IDK.fund  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo     |
-| felt.fund | available | $15.99    | —             | high           | low    | 4      | name.com     |
+| avon.fund | available | $15.99    | —             | high           | low    | 4      | name.com     |
 | lake.fund | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,632 live domains                        |
+| 1,000-row public sample | 11,648 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUND One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUND One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
