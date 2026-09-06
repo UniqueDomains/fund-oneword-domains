@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fund one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,463 domains · **Median ask:** $20.13 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/fund`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| half.fund | available | $15.99    | —             | high           | low    | 4      | name.com     |
+| just.fund | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc. |
 | clx.fund  | available | $11.98    | $92.98        | low            | low    | 3      | namecheap    |
 | cat.fund  | resell    | —         | —             | high           | high   | 3      | DNSPod, Inc. |
 | add.fund  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
@@ -80,10 +82,8 @@ print(df.head())
 | fine.fund | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc. |
 | hot.fund  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
 | alky.fund | available | $11.98    | $92.98        | low            | low    | 4      | namecheap    |
-| just.fund | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc. |
 | IDK.fund  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo     |
 | auld.fund | available | $11.98    | $92.98        | low            | low    | 4      | namecheap    |
-| lake.fund | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUND One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUND One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
