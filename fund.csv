@@ -1,9 +1,9 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 c377435b-5514-45ee-9e50-0b756a3cf780,barelegged.fund,available,11.98,92.98,low,low,10,namecheap,,,08/08/2026 19:15
-a87687df-a4ff-4afb-845c-51d3f5c5bacc,confirmed.fund,available,15.99,92.99,medium,low,9,name.com,,,
+a87687df-a4ff-4afb-845c-51d3f5c5bacc,confirmed.fund,available,11.98,92.98,medium,low,9,namecheap,,,23/09/2026 19:53
 ccd2e0ea-b961-4b4f-bfaa-b6954a547024,invite.fund,available,15.99,,high,low,6,name.com,,,
 6b536d40-57ad-4453-a0af-b9b35e3076b2,safe.fund,resell,,,high,medium,4,"Spaceship, Inc.",01/04/2024 15:15,01/04/2027 15:15,17/09/2026 09:58
-f269666f-d2bd-4b88-b87b-8f6793d2b758,rotten.fund,available,15.99,92.99,medium,low,6,name.com,,,
+f269666f-d2bd-4b88-b87b-8f6793d2b758,rotten.fund,available,14.99,71.99,low,low,6,namesilo,,,24/09/2026 01:35
 af684a98-cb30-4479-a24e-f1193a679f1e,therebe.fund,available,15.99,,low,low,8,name.com,,,
 d342f153-1ecb-48fa-892c-1b3eead6446b,oxford.fund,premium,118.8,118.8,medium,low,6,namesilo,,,
 4fee920c-d02b-4f1f-9298-31763dcb5933,daft.fund,available,11.98,92.98,low,low,4,namecheap,,,06/08/2026 20:50
@@ -33,9 +33,9 @@ f02b012d-434a-4d8a-ae4e-3dc203811d66,trap.fund,available,15.99,,medium,low,4,nam
 c17eb1d5-6c49-43de-8bab-d131587512bc,keytothecity.fund,available,15.99,,high,low,15,name.com,,,
 98e37aa1-8700-4801-afab-2c95bb8b999b,majorleague.fund,available,15.99,,high,low,12,name.com,,,
 f7a501a9-4422-46d9-b599-d5963f2fc43e,admittible.fund,available,11.98,92.98,low,low,10,namecheap,,,
-e2d204ef-94a1-4e07-9e9c-3d652a9ec82a,contingent.fund,available,15.99,92.99,high,low,10,name.com,,,
+e2d204ef-94a1-4e07-9e9c-3d652a9ec82a,contingent.fund,available,14.99,71.99,low,low,10,namesilo,,,23/09/2026 22:07
 d3a7fcfb-1ab2-4be8-ba95-0ea674f47533,coloured.fund,available,11.98,92.98,low,low,8,namecheap,,,22/09/2026 20:29
-5c41010a-9e5c-44b0-a910-2adb3b614af2,coding.fund,available,15.99,,high,low,6,name.com,,,
+5c41010a-9e5c-44b0-a910-2adb3b614af2,coding.fund,available,14.99,71.99,medium,low,6,namesilo,,,23/09/2026 08:39
 7019d7de-cbef-46bd-ae65-57c049ce5b99,masters.fund,resell,,,high,low,7,"DNSPod, Inc.",04/08/2024 17:00,04/08/2027 17:00,20/09/2026 11:56
 4c936476-2d6b-4078-9f95-ddd53c9024b1,aboveabit.fund,available,15.99,,low,low,11,name.com,,,
 a81bf3eb-d861-4db9-a846-af37d7a03899,stock.fund,premium,500,,medium,medium,5,name.com,,,
@@ -64,7 +64,7 @@ ced1f47b-e7ce-47ae-997b-80ee1f8d51da,autogenous.fund,available,11.98,92.98,low,l
 cad639f1-3b28-42ca-abd7-44bb76c1246d,anadromous.fund,available,11.98,92.98,low,low,10,namecheap,,,
 760b5660-76a0-4e81-910c-cb612af82192,satan.fund,available,15.99,,medium,low,5,name.com,,,
 f44822cb-cbbb-44a2-9bfa-8c44cdd63f01,beginning.fund,available,11.98,92.98,low,low,9,namecheap,,,09/08/2026 09:06
-a766ea98-365b-473d-8db0-2c4c2f818433,comic.fund,available,15.99,,high,low,5,name.com,,,
+a766ea98-365b-473d-8db0-2c4c2f818433,comic.fund,available,14.99,71.99,medium,low,5,namesilo,,,23/09/2026 15:15
 0dc09175-57e9-4a1e-988c-ccd49fdd38dc,same.fund,available,15.99,,high,low,4,name.com,,,
 1b371404-e64f-4811-935b-a01f3c6ad644,injure.fund,available,15.99,,medium,low,6,name.com,,,
 420633cf-665a-48e6-9351-975ab6c1e93f,atthisjuncture.fund,available,11.98,92.98,low,low,16,namecheap,,,08/09/2026 14:44
@@ -82,9 +82,9 @@ e4448752-1119-4600-96a9-511682ef62bb,mouthless.fund,available,11.98,92.98,low,lo
 6c3c9f5c-450f-444a-9f14-2707a248888b,allrightsreserved.fund,available,15.99,,medium,low,19,name.com,,,
 a4f532e4-a52a-4533-8d35-5bdb3fd41010,routine.fund,available,15.99,,high,low,7,name.com,,,
 94f63718-6487-4b22-9957-3d4595a118c8,atwork.fund,available,15.99,,high,low,7,name.com,,,
-2a6a45cb-c9eb-48b8-85e9-a1f42a3d4f08,busy.fund,available,15.99,,high,low,4,name.com,,,
+2a6a45cb-c9eb-48b8-85e9-a1f42a3d4f08,busy.fund,available,11.98,92.98,medium,low,4,namecheap,,,23/09/2026 12:11
 7b171bef-dbfb-405d-bb68-ebe455fd5778,violated.fund,available,15.99,,medium,low,8,name.com,,,
-ed97fa07-ba45-4213-9e16-8293b04236ef,near.fund,resell,,,medium,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",31/01/2024 17:00,31/01/2027 17:00,
+ed97fa07-ba45-4213-9e16-8293b04236ef,near.fund,resell,,,low,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",31/01/2024 17:00,31/01/2027 17:00,23/09/2026 13:54
 e1be3c9a-d2e6-4c8d-b96f-5bb83739dd00,basically.fund,available,15.99,,medium,low,9,name.com,,,
 9239af45-f4fd-4eca-899e-4071915220b6,pointout.fund,available,15.99,,low,low,9,name.com,,,
 d0e95a93-27c5-457e-b268-5c4cb724d90f,snow.fund,resell,,,medium,low,4,"DNSPod, Inc.",29/01/2018 02:12,29/01/2027 02:12,
@@ -109,7 +109,7 @@ cec44624-1b63-4005-903c-65473c9a0db6,limo.fund,premium,118.8,118.8,high,low,4,na
 dec6693b-216d-4828-9567-4958e21de903,friendship.fund,resell,,,high,low,10,"DNSPod, Inc.",01/02/2022 13:15,01/02/2027 13:15,
 66553756-c694-47ff-adac-c06341bbde19,scientist.fund,available,15.99,,high,low,9,name.com,,,
 dd7050fe-f376-4b3a-b950-099949da9bdb,airfreshener.fund,available,15.99,,high,low,13,name.com,,,
-203822ac-a3ab-4d0b-bdf5-830fb2fe9ff6,cheap.fund,premium,242,242,high,low,5,namesilo,,,
+203822ac-a3ab-4d0b-bdf5-830fb2fe9ff6,cheap.fund,premium,242,242,low,low,5,namesilo,,,23/09/2026 11:03
 4ec6e406-8bad-455a-9e4a-5a76d4175c58,couple.fund,available,15.99,,high,low,6,name.com,,,
 db7fdc54-7679-43e9-8bca-90b105904da2,paunchy.fund,available,11.98,92.98,low,low,7,namecheap,,,
 1703350a-6a4e-490e-9a28-4c4fd7057bf5,foodcourt.fund,available,15.99,,high,low,10,name.com,,,
@@ -136,9 +136,9 @@ bdd56abf-59b7-454b-9db8-67e2f4d6592f,environmentally.fund,available,15.99,,mediu
 8a37e77d-40dc-4275-a5ec-001e613c7f56,squall.fund,available,15.99,,high,low,6,name.com,,,
 ca72ac66-e4ea-490a-a4c8-b6ca52f4e386,lowlying.fund,available,15.99,,medium,low,9,name.com,,,
 c45099c9-c271-46ef-8b8a-53944bc41a5e,discriminating.fund,available,15.99,,medium,low,14,name.com,,,
-02ed146d-ad52-4431-9f0b-c5bdea9ddb86,experiment.fund,available,15.99,,high,low,10,name.com,,,
+02ed146d-ad52-4431-9f0b-c5bdea9ddb86,experiment.fund,available,14.99,71.99,medium,low,10,namesilo,,,23/09/2026 08:49
 323b1204-8781-46b2-aa24-6fb0f7d1beba,countryoforigin.fund,available,15.99,,medium,low,17,name.com,,,
-4d5b90f1-84d6-4851-be05-f5ace11b324f,retina.fund,resell,,,high,low,6,"DNSPod, Inc.",01/09/2018 15:03,01/09/2026 15:03,
+4d5b90f1-84d6-4851-be05-f5ace11b324f,retina.fund,resell,,,high,low,6,"DNSPod, Inc.",01/09/2018 15:03,01/09/2027 15:03,23/09/2026 22:12
 946259d3-25f9-445b-9ef0-52198521c775,panes.fund,available,15.99,,medium,low,5,name.com,,,
 a2cf412c-6692-4677-bc1c-a345b7612808,possess.fund,available,15.99,,high,low,7,name.com,,,
 5ac26c16-a826-446e-8bd6-b4c3008bdcd8,bedhead.fund,available,15.99,,medium,low,8,name.com,,,
@@ -199,7 +199,7 @@ f1672924-15c0-45dc-a1ee-e35c75940de9,leader.fund,resell,,,high,low,6,"DNSPod, In
 6870d556-b1f6-425b-a668-f173fd5dd819,technicality.fund,available,15.99,,low,low,12,name.com,,,
 71dc5ce0-e540-42ec-81c1-1bb1d95380b5,located.fund,available,15.99,,medium,low,7,name.com,,,
 ac6cc3fc-c717-41d3-a354-fd6bd7accb81,opposable.fund,available,11.98,92.98,low,low,9,namecheap,,,06/08/2026 07:43
-7c7678b6-67f2-41ae-bc49-8671e0f63004,careful.fund,available,15.99,,high,low,7,name.com,,,
+7c7678b6-67f2-41ae-bc49-8671e0f63004,careful.fund,available,11.98,92.98,medium,low,7,namecheap,,,23/09/2026 12:50
 421059a0-2106-4a7e-be6f-a3387e9e22df,just.fund,resell,,,high,medium,4,"DNSPod, Inc.",08/10/2019 00:50,08/10/2027 00:50,21/09/2026 06:45
 5c238c86-7b81-492f-90cd-96d715321c02,doublecheck.fund,available,15.99,,high,low,12,name.com,,,
 01f65ad5-43ef-4274-a73f-4f0dddc0af9d,yuck.fund,available,15.99,,high,low,4,name.com,,,
@@ -302,7 +302,7 @@ c9b88a63-83fa-4f2b-955f-f0f9d7adfb8f,atrip.fund,available,11.98,92.98,low,low,5,
 3be32f2a-1019-4bcf-b74b-3ef262c858df,condom.fund,available,15.99,,high,low,6,name.com,,,
 1894945a-1f3e-4b9f-a242-3f0e9e745e7d,spanish.fund,premium,118.8,118.8,medium,low,7,namesilo,,,
 6e3bed66-836e-4579-8ebb-07211551a44b,rednoseday.fund,available,15.99,,low,low,12,name.com,,,
-aeb2cd5e-8913-444a-aea6-db98c79bb5c1,complex.fund,available,15.99,92.99,high,low,7,name.com,,,
+aeb2cd5e-8913-444a-aea6-db98c79bb5c1,complex.fund,available,14.99,71.99,medium,low,7,namesilo,,,23/09/2026 17:35
 89b9931d-654f-4e29-aee0-f35ede1a57f7,lxxviii.fund,available,11.98,92.98,low,low,7,namecheap,,,
 4418ecbf-846e-4ff1-a202-2fb96ec6e3f3,nomnomnom.fund,available,15.99,,high,low,11,name.com,,,
 d0eec490-44ab-4f0d-aabb-43df7cd51598,ohmyfuck.fund,available,15.99,,medium,low,10,name.com,,,
@@ -327,8 +327,9 @@ a86c1f55-aa4d-4995-ad26-7a8b814a5ece,nutty.fund,available,11.98,92.98,low,low,5,
 6150b163-0689-48a3-8468-239f9d0cbbbd,letthecatout.fund,available,15.99,,high,low,15,name.com,,,
 afe999bd-c74a-4300-a23d-efa4ef33e2c3,autoerotic.fund,available,11.98,92.98,low,low,10,namecheap,,,07/08/2026 20:01
 958ab492-4558-477b-8b0a-66ffe5d323fa,nitrous.fund,available,11.98,92.98,low,low,7,namecheap,,,08/08/2026 03:03
+cb0308a9-fdca-45e5-a19a-45833f337456,clever.fund,resell,,,medium,low,6,"DNSPod, Inc.",25/05/2024 17:00,25/05/2027 17:00,23/09/2026 12:20
 47ccf22e-f6e6-416b-977a-7427cb74538d,gaffer.fund,available,11.98,92.98,low,low,6,namecheap,,,
-3313b0d4-2d8f-4fcc-abac-7b6bea0124fc,statement.fund,available,15.99,,high,low,9,name.com,,,
+3313b0d4-2d8f-4fcc-abac-7b6bea0124fc,statement.fund,available,14.99,71.99,low,low,9,namesilo,,,23/09/2026 08:02
 c5645c4c-08c1-4fe1-a140-cf438c657b8f,balance.fund,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",27/11/2019 10:14,27/11/2026 10:14,
 851878d0-63dd-40a3-bdc8-1dea2332cd36,pleasure.fund,available,15.99,,high,low,8,name.com,,,
 6b9706ee-f814-47f7-adac-93b0d1df4ec8,piss.fund,available,15.99,,high,low,4,name.com,,,
@@ -364,7 +365,7 @@ d9ec8d40-ddfc-4df2-b14f-6e19b49d9288,basaltic.fund,available,11.98,92.98,low,low
 6053ae3d-635d-4c4b-a110-cdeb3372d671,eddie.fund,available,15.99,,high,low,5,name.com,,,
 66c9592d-3652-4e19-a000-151456b63054,avon.fund,available,15.99,,high,low,4,name.com,,,
 383b5fda-3b63-4781-8893-0c05c2150baf,anarchic.fund,available,11.98,92.98,low,low,8,namecheap,,,
-74709831-cb2f-4900-9fdb-ac8703efc421,continual.fund,available,15.99,92.99,medium,low,9,name.com,,,
+74709831-cb2f-4900-9fdb-ac8703efc421,continual.fund,available,14.99,71.99,low,low,9,namesilo,,,23/09/2026 22:10
 c03079ef-c6eb-4ce4-8560-cd412644aca0,soothing.fund,available,11.98,92.98,low,low,8,namecheap,,,07/08/2026 07:40
 385040b9-ae93-46b7-975c-5094443cabdd,hamburger.fund,available,15.99,,high,low,9,name.com,,,
 187abcee-7a94-47a6-8d20-5783e5bf7711,arranged.fund,available,14.99,71.99,medium,low,8,namesilo,,,22/09/2026 08:25
@@ -392,7 +393,7 @@ c0edec85-2a62-4863-a963-7220f668049d,amidships.fund,available,11.98,92.98,low,lo
 17149cd0-0028-40a2-9fe4-5bda77505a0e,fauna.fund,available,11.98,92.98,low,low,5,namecheap,,,
 dd69c25c-f527-4b5a-a694-658dd0e780c9,exercising.fund,available,15.99,,high,low,10,name.com,,,
 2c8aeee7-5ba0-497d-a019-19827c1c2189,toeachhisown.fund,available,15.99,,medium,low,15,name.com,,,
-4cfe524d-5f20-4388-8b42-5fab314fcead,appointment.fund,available,15.99,,high,low,11,name.com,,,
+4cfe524d-5f20-4388-8b42-5fab314fcead,appointment.fund,available,14.99,71.99,medium,low,11,namesilo,,,24/09/2026 03:38
 314ce986-4cbb-4ac4-8606-642e5d2e4edb,asquint.fund,available,11.98,92.98,low,low,7,namecheap,,,07/08/2026 03:10
 7660f565-8354-4705-96bd-0dacef041839,bawdy.fund,available,11.98,92.98,low,low,5,namecheap,,,09/08/2026 02:05
 9d224432-ccf6-4fa7-b635-70978b2132a7,field.fund,resell,,,medium,low,5,"DNSPod, Inc.",23/01/2019 05:54,23/01/2027 05:54,
@@ -414,7 +415,7 @@ c7797289-0c10-4346-ba94-9fd66398b65b,slave.fund,available,15.99,,medium,low,5,na
 6e11b02c-b79c-4843-9582-0ded35e925df,include.fund,available,15.99,,high,low,7,name.com,,,
 d32d9ad5-cde8-48ab-81ec-5cfda24804fd,khakis.fund,available,15.99,,high,low,6,name.com,,,
 aa04a4c7-5d87-4adf-9977-d3be0f53358b,woods.fund,available,15.99,,medium,low,5,name.com,,,
-8f588776-2778-407e-b0ac-e5cad27b6144,choppy.fund,available,15.99,,medium,low,6,name.com,,,
+8f588776-2778-407e-b0ac-e5cad27b6144,choppy.fund,available,14.99,71.99,low,low,6,namesilo,,,23/09/2026 14:30
 7cbc9e78-a119-49f5-a4c5-5a39b5008782,cooperation.fund,available,15.99,,high,low,11,name.com,,,
 3bbbfcf9-92fe-4172-8545-8b4983469c1e,half.fund,available,15.99,,high,low,4,name.com,,,
 5dbf2384-49bd-4098-8063-41c5b3816909,surfaces.fund,available,15.99,,low,low,8,name.com,,,
@@ -425,7 +426,7 @@ f8e69500-2546-4b4f-920c-f511b7729a04,variety.fund,available,15.99,,high,low,7,na
 c3affaa6-1009-42ea-a701-93cc198fc4f7,knock.fund,available,15.99,,medium,low,5,name.com,,,
 f227a496-9850-4158-8928-705e42fb3061,normally.fund,available,15.99,,medium,low,8,name.com,,,
 5bfa0ccf-dc7c-40f6-88b6-c165fe716801,pissedoff.fund,available,,,low,low,10,,,,
-8b056da6-180b-4b92-b4b2-585ca1214d6b,yellow.fund,resell,,,high,low,6,"GoDaddy.com, LLC",31/03/2015 20:09,31/03/2030 20:09,
+8b056da6-180b-4b92-b4b2-585ca1214d6b,yellow.fund,resell,,,medium,low,6,"GoDaddy.com, LLC",31/03/2015 20:09,31/03/2030 20:09,23/09/2026 14:15
 6af4976a-20d8-45cb-aee1-e3091d257d09,lateron.fund,available,11.98,92.98,low,low,8,namecheap,,,
 8b3c193a-1f3f-4a38-82bd-38b736880dac,inturn.fund,available,15.99,,high,low,7,name.com,,,
 f7bf442d-0cfe-481c-9e54-ef6cae4eb81e,alky.fund,available,11.98,92.98,low,low,4,namecheap,,,
@@ -450,7 +451,7 @@ a5960c5c-520b-44b5-bcf9-3c30ce689e93,lastly.fund,available,15.99,,medium,low,6,n
 098ad11b-4c05-49b9-a1a6-95aae0cb3f5f,trine.fund,available,11.98,92.98,low,low,5,namecheap,,,
 0df47010-9947-4ec0-a4b6-7d5b4d2bb703,thrift.fund,available,15.99,,medium,low,6,name.com,,,
 d16fbf5a-2cc2-46af-9fe2-80b80c3304f0,skin.fund,premium,118.8,118.8,high,low,4,namesilo,,,
-7c9eb423-cc6d-43ff-9a4d-e7f65f508262,contrary.fund,available,15.99,92.99,high,low,8,name.com,,,
+7c9eb423-cc6d-43ff-9a4d-e7f65f508262,contrary.fund,available,14.99,71.99,low,low,8,namesilo,,,23/09/2026 22:29
 280e1370-5167-407e-9e9a-3da57d0b41e5,will.fund,available,,,high,low,4,,,,
 dfbcdfdb-65c0-42bf-8a8f-6a609963bf54,grotesque.fund,available,11.98,92.98,low,low,9,namecheap,,,
 b236d228-80c1-45d5-bea8-0ab943a3831e,copypronoun.fund,available,15.99,,high,low,12,name.com,,,
@@ -551,7 +552,7 @@ ac35e86b-29eb-4357-b88e-357df14e1a6e,solo.fund,available,,,high,low,4,,,,
 9d54ec26-0576-46c6-a440-726eb6d930d6,respectively.fund,available,15.99,,medium,low,12,name.com,,,
 80c9e9ae-b93a-4d56-ac2a-7fa4731856b9,mat.fund,premium,242,242,medium,low,3,namesilo,,,08/09/2026 07:48
 5e98942a-d699-4cdd-94f7-005e33269967,banner.fund,resell,,,low,low,6,"DNSPod, Inc.",12/04/2024 15:16,12/04/2027 15:16,08/08/2026 13:53
-4a6333ba-9e79-444c-92df-e8a64dee5157,bright.fund,resell,,,high,low,6,"DNSPod, Inc.",09/08/2021 14:08,09/08/2027 14:08,20/09/2026 16:18
+4a6333ba-9e79-444c-92df-e8a64dee5157,bright.fund,resell,,,medium,low,6,"DNSPod, Inc.",09/08/2021 14:08,09/08/2027 14:08,23/09/2026 09:27
 198342e1-8cb0-46bd-9e3f-9f285e0d215b,spellingword.fund,available,15.99,,medium,low,13,name.com,,,
 159c1040-9c1b-4534-9998-0eee5681f87e,sestet.fund,available,11.98,92.98,low,low,6,namecheap,,,
 2ed0e67b-7c3f-4f66-8de1-c04e6ed91cdb,establishmentgrowth.fund,available,15.99,,medium,low,20,name.com,,,
@@ -601,7 +602,7 @@ f1ab246a-fbc8-4ba7-89fb-065bc6c282ca,repugnant.fund,available,11.98,92.98,low,lo
 7498f037-a6e5-4e09-b87e-2a1f8371a266,anile.fund,available,11.98,92.98,low,low,5,namecheap,,,
 ae2a20ec-cb3f-4d3d-a6f9-d54ebf1b846b,katy.fund,available,15.99,,high,low,4,name.com,,,
 e67c936c-4726-460e-afce-0abfaccfc9c9,mastercard.fund,available,,,high,low,10,,,,
-186bb47a-7f35-4322-918a-cc2138dfa119,debate.fund,available,15.99,92.99,high,low,6,name.com,,,
+186bb47a-7f35-4322-918a-cc2138dfa119,debate.fund,available,14.99,71.99,low,low,6,namesilo,,,24/09/2026 05:29
 07052f23-12f4-43c2-b543-d32c22ef573c,xxxvi.fund,available,11.98,92.98,low,low,5,namecheap,,,
 96f0c3ad-39b0-4ecf-b2dd-340625e166ed,dizzy.fund,available,11.98,92.98,low,low,5,namecheap,,,
 1fe1e9c7-1ccb-41d8-91fc-946ca5b90719,overlook.fund,available,15.99,,high,low,8,name.com,,,
@@ -631,7 +632,7 @@ ed0ab9c0-0626-4f07-902d-9903de099bb6,powerstrip.fund,available,15.99,,high,low,1
 d9d171e0-3fe0-431c-9018-df1a58c6130f,successor.fund,available,15.99,,medium,low,9,name.com,,,
 06210cfe-367d-403d-842d-688afa7dfd19,gregor.fund,available,15.99,,medium,low,6,name.com,,,
 12bfc5d1-6192-4b2f-ac71-e192c0f613e8,attract.fund,available,15.99,,high,low,7,name.com,,,
-fc0a54e4-8034-4268-b529-0a9bdba79c2c,lake.fund,resell,,,high,low,4,"DNSPod, Inc.",04/09/2020 23:17,04/09/2026 23:17,
+fc0a54e4-8034-4268-b529-0a9bdba79c2c,lake.fund,resell,,,high,low,4,"DNSPod, Inc.",04/09/2020 23:17,04/09/2027 23:17,24/09/2026 03:30
 b73d29f8-f747-4b9b-82e2-cbeaf9008421,midwinter.fund,available,15.99,,medium,low,10,name.com,,,
 768fc2be-9a67-48b2-b342-1fadb3d519ee,adieu.fund,available,15.99,,high,low,5,name.com,,,
 d38c1dca-b5c6-43fb-b0ad-21a4dfd3b83b,taxation.fund,available,15.99,,medium,low,8,name.com,,,
@@ -647,7 +648,7 @@ a10d3460-1869-4375-9a24-55c691757c19,clx.fund,available,11.98,92.98,low,low,3,na
 3ffb4259-4173-4cec-a1bd-8caa3a6f04f3,massive.fund,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",01/11/2020 08:09,01/11/2026 08:09,
 e0d39858-1505-41da-81e3-b7b3e0ebb9d0,play.fund,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",17/01/2026 15:15,17/01/2027 15:15,
 2af5ce08-f75e-43b7-a504-02be81bfe3d6,australian.fund,premium,118.8,118.8,low,low,10,namesilo,,,22/09/2026 13:30
-8b8b54d4-9ddc-4c81-aca3-560f388e6765,continued.fund,available,15.99,92.99,high,low,9,name.com,,,
+8b8b54d4-9ddc-4c81-aca3-560f388e6765,continued.fund,available,11.98,92.98,medium,low,9,namecheap,,,23/09/2026 22:14
 718d26a3-cb72-4c18-bc6c-7e7e21ae2373,goodday.fund,available,15.99,,high,low,8,name.com,,,
 523402f3-8ef3-47b9-9dfb-362a14376c36,hecksno.fund,available,15.99,,medium,low,8,name.com,,,
 42f9e497-f90e-4d86-99b0-6409ca704594,apneic.fund,available,11.98,92.98,low,low,6,namecheap,,,06/08/2026 00:40
@@ -692,7 +693,7 @@ be9ae23b-c66c-4728-a190-70b49e0ada10,mixing.fund,available,15.99,,high,low,6,nam
 d0302a87-3b5c-4116-b9b6-ac5f5e81137d,intercultural.fund,available,15.99,,high,low,13,name.com,,,
 01390984-da33-45d0-941a-0425410c9af0,amorous.fund,available,14.99,71.99,low,low,7,namesilo,,,22/09/2026 03:25
 8ec76d4e-b556-4554-a57f-9cd175ae6330,possibly.fund,available,15.99,,medium,low,8,name.com,,,
-96e27ab2-4485-49b3-90b0-970cba432b1e,inherent.fund,available,15.99,,medium,low,8,name.com,,,
+96e27ab2-4485-49b3-90b0-970cba432b1e,inherent.fund,available,14.99,71.99,low,low,8,namesilo,,,23/09/2026 10:30
 175a38d0-98ce-4bab-b900-05ba2fdf222c,speedlimit.fund,available,15.99,,medium,low,11,name.com,,,
 6193911f-0f7c-4046-9856-662d018574c2,atthebank.fund,available,15.99,,high,low,11,name.com,,,
 d44bea7e-4428-4062-a8af-10e3f1662597,racing.fund,premium,118.8,118.8,high,low,6,namesilo,,,
@@ -757,7 +758,7 @@ c1e3ce32-7929-4454-b913-de8cefec9053,heedful.fund,available,11.98,92.98,low,low,
 78259c87-c44b-47ba-ac65-052fa380f4bd,ecommerce.fund,resell,,,high,low,10,"Sav.com, LLC",07/06/2025 07:59,07/06/2026 07:59,
 a3857fb3-5dfa-464d-b2da-1ffbc8a912a1,comprehend.fund,available,15.99,,high,low,10,name.com,,,
 4d4ef12e-b6c0-4c9c-abf2-4051b9a31d41,netherlands.fund,available,,,medium,low,11,,,,
-087c28b3-5aa9-4c1f-ad30-a6ef1d78061a,chip.fund,resell,,,high,low,4,"DNSPod, Inc.",21/04/2018 02:30,21/04/2027 02:30,
+087c28b3-5aa9-4c1f-ad30-a6ef1d78061a,chip.fund,resell,,,medium,low,4,"DNSPod, Inc.",21/04/2018 02:30,21/04/2027 02:30,24/09/2026 01:56
 d59147c7-c6ef-4b20-9e81-7293da63a170,fifteen.fund,available,14.99,71.99,medium,low,7,namesilo,,,21/09/2026 11:44
 0518fe5f-b8d9-4253-9c6b-fa7cea6bb6b5,butterflykeyboard.fund,available,15.99,,high,low,18,name.com,,,
 00082a53-e89d-4cd4-b093-8d0a506a0352,add.fund,premium,118.8,118.8,high,low,3,namesilo,,,
@@ -800,8 +801,8 @@ d6f282f3-db64-41a4-8022-66f694ab714a,ninetieth.fund,available,11.98,92.98,low,lo
 0518f55a-3a27-4470-87ed-d51c9b633deb,justiceofthepeace.fund,available,15.99,,medium,low,20,name.com,,,
 ac28e93e-6ab5-4db6-a46b-12fb00e8a416,women.fund,resell,,,medium,low,5,"DNSPod, Inc.",05/12/2019 08:41,05/12/2026 08:41,
 b763388d-721a-4474-bc38-66f988ec36a1,bringto.fund,available,15.99,,high,low,8,name.com,,,
-9997d273-c46c-4bd2-908a-00f603344cca,large.fund,premium,78.54,78.54,medium,low,5,namesilo,,,19/09/2026 10:18
-47556767-c1b2-4c60-84ad-03651aa84a71,comedian.fund,available,15.99,,high,low,8,name.com,,,
+9997d273-c46c-4bd2-908a-00f603344cca,large.fund,premium,85.8,85.8,medium,low,5,namecheap,,,23/09/2026 09:13
+47556767-c1b2-4c60-84ad-03651aa84a71,comedian.fund,available,14.99,71.99,medium,low,8,namesilo,,,23/09/2026 15:26
 0c86412d-4325-439f-9a2f-65fead69ba83,stuffy.fund,available,11.98,92.98,low,low,6,namecheap,,,
 cd0dff35-63e9-452f-a886-8a380b316a56,flexing.fund,available,15.99,,high,low,7,name.com,,,
 d6db49ff-ff1e-43eb-83a9-b367a145114e,makelemonade.fund,available,15.99,,high,low,13,name.com,,,
@@ -821,7 +822,7 @@ ce6b60fb-1601-43c1-9bb9-676b50cc1318,ternion.fund,available,11.98,92.98,low,low,
 352e75b0-0cdc-4359-9c7e-741750b6476e,saddletree.fund,available,15.99,,low,low,11,name.com,,,
 a8787e6c-99c2-4d87-aa75-3055afe481f1,eyesight.fund,available,15.99,,medium,low,9,name.com,,,
 8fa00c18-f9b8-4fee-afc3-ed39fdfda22e,nearly.fund,available,15.99,,high,low,6,name.com,,,
-e489d287-42b0-4fb0-a7f3-feec6321c42d,screen.fund,resell,,,low,low,6,"DNSPod, Inc.",05/08/2025 13:26,05/08/2030 13:26,19/09/2026 13:37
+e489d287-42b0-4fb0-a7f3-feec6321c42d,screen.fund,resell,,,low,low,6,"DNSPod, Inc.",05/08/2025 13:26,05/08/2030 13:26,23/09/2026 16:32
 edc81944-252c-433b-824e-6a0e5e110475,pal.fund,premium,78.54,78.54,high,low,3,namesilo,,,
 ecd1bb85-03a0-41dd-ba63-97cbe790732d,substitution.fund,available,15.99,,low,low,12,name.com,,,
 19fffa09-75fc-4300-a73e-63491acca568,progress.fund,resell,,,medium,low,8,"DNSPod, Inc.",11/03/2019 23:20,11/03/2036 23:20,21/09/2026 20:19
@@ -840,12 +841,12 @@ e721a535-8301-495e-8cd3-66e3b4bc3ec7,carefully.fund,available,15.99,,medium,low,
 fc9044fd-eb53-47a5-8d8c-2dbd6f798f1a,hybrid.fund,resell,,,high,low,6,"DNSPod, Inc.",26/11/2019 21:11,26/11/2026 21:11,
 e3893c39-bc4f-4f10-830b-e40ca6712551,southamerica.fund,premium,123.75,,low,low,13,name.com,,,
 0bcf93b3-951a-4ff8-bee8-d8765ee30734,charactertrait.fund,available,15.99,,high,low,15,name.com,,,
-a0dff893-c8e6-417e-a0e1-4bbe73f1711e,custom.fund,premium,128.7,128.7,medium,low,6,namecheap,,,20/09/2026 02:48
+a0dff893-c8e6-417e-a0e1-4bbe73f1711e,custom.fund,premium,118.8,118.8,medium,low,6,namesilo,,,23/09/2026 10:51
 c6156c41-65d6-47e9-b266-d3fbd51febed,wordplay.fund,available,15.99,,medium,low,9,name.com,,,
 35b4eb21-2d01-491c-bee7-2122fda5c0fe,dime.fund,available,,,medium,low,4,,,,
 f9622201-6fdf-43d6-8768-b47aa98e620a,aerobic.fund,available,15.99,92.99,medium,low,7,name.com,,,21/09/2026 21:01
 ac150766-7348-4f73-a5de-9f1eb5ec187f,suspend.fund,available,15.99,,high,low,7,name.com,,,
-43f0e07d-3380-4cca-96e3-00c510aa27c3,comforted.fund,available,15.99,,high,low,9,name.com,,,
+43f0e07d-3380-4cca-96e3-00c510aa27c3,comforted.fund,available,14.99,71.99,medium,low,9,namesilo,,,23/09/2026 15:14
 82803b39-dcb3-446c-84eb-a7b30bcea0d2,household.fund,available,15.99,,high,low,9,name.com,,,
 888b80b0-c0c6-4189-889b-df340da476af,wide.fund,available,11.98,92.98,low,low,4,namecheap,,,21/09/2026 16:15
 21874496-93d6-4e79-b3ef-9dfcf8986484,ebay.fund,available,,,high,low,4,,,,
@@ -855,7 +856,7 @@ ecc39a78-46aa-4d61-874b-350526e347fc,pauliii.fund,available,15.99,,medium,low,8,
 c82f1578-a0fb-49c2-87ee-94c8f7adf73c,incidence.fund,available,15.99,,medium,low,9,name.com,,,
 8164a225-5c4d-491b-9205-fea2fc0669ea,adopted.fund,available,11.98,92.98,low,low,7,namecheap,,,
 930df4f8-27be-4c60-9730-4b9e1f7807e7,neutral.fund,premium,118.8,118.8,medium,low,7,namesilo,,,21/09/2026 16:07
-a2b5179c-8faf-4c49-852f-6b8d48827f2e,opposite.fund,available,15.99,92.99,high,low,8,name.com,,,
+a2b5179c-8faf-4c49-852f-6b8d48827f2e,opposite.fund,available,11.98,92.98,low,low,8,namecheap,,,23/09/2026 22:35
 d392fc84-9e6a-4309-9aab-a87566ad1916,aeronautic.fund,available,11.98,92.98,low,low,10,namecheap,,,
 a3240dc9-6e69-4511-a845-46488842fe6b,ways.fund,available,15.99,,high,low,4,name.com,,,
 a2bee70e-7846-41bd-82cc-21a239c1fdb4,understand.fund,available,15.99,,high,low,10,name.com,,,
@@ -887,7 +888,7 @@ b4178dfe-1ef1-4d7c-9da9-3ee86d78b633,observer.fund,available,15.99,,medium,low,8
 b12b0bfb-f3f3-4901-931a-44cc1cf6d787,airmarshal.fund,available,15.99,,high,low,11,name.com,,,
 bb41488e-4e8f-44e0-9e6a-d5c8b07b089d,ablaze.fund,available,11.98,92.98,low,low,6,namecheap,,,
 5ca750ff-c743-4bd7-a889-12a24f73f051,assertable.fund,available,11.98,92.98,low,low,10,namecheap,,,
-c4eb57e9-2d50-4b78-bc0c-cfd427c11c15,invoice.fund,resell,,,medium,low,8,"DNSPod, Inc.",21/04/2021 09:27,21/04/2027 09:27,20/09/2026 02:32
+c4eb57e9-2d50-4b78-bc0c-cfd427c11c15,invoice.fund,resell,,,medium,low,8,"DNSPod, Inc.",21/04/2021 09:27,21/04/2027 09:27,24/09/2026 05:24
 0a7a5435-ea0d-49ee-b048-40d77a13872a,musicgame.fund,available,15.99,,high,low,10,name.com,,,
 c07d89ec-8785-4fd3-99be-cb54c37cbd9a,intheair.fund,available,11.98,92.98,low,low,10,namecheap,,,15/09/2026 05:25
 4775086b-51e9-4108-a93b-34c2d1a895bd,eremitic.fund,available,11.98,92.98,low,low,8,namecheap,,,
@@ -936,7 +937,6 @@ c8fb67b6-f993-48c7-86d5-59e6770e91a9,sixtyfive.fund,available,11.98,92.98,low,lo
 85b0dfb8-fbc7-4725-88c3-c6860fb3c41d,implausible.fund,available,15.99,,medium,low,11,name.com,,,
 110dbc61-73fb-4786-9630-e0a3bbe2fcbe,prairie.fund,available,15.99,,medium,low,7,name.com,,,
 983a37c9-ecc2-4750-8e1c-07aef89b3328,arbitrary.fund,available,11.98,92.98,low,low,9,namecheap,,,06/08/2026 12:54
-ff79cbe9-ead7-406a-9025-026f48bd1d8b,built.fund,available,,,high,high,5,,,,
 751dd545-f9e1-42b8-a329-e8bccf8329f5,usa.fund,premium,500,,high,medium,3,name.com,,,
 2a032b55-c504-421a-aaa5-b50105a5c773,artglass.fund,available,15.99,,medium,low,9,name.com,,,
 92b8a589-da28-4f7e-8dbc-94985ea428bd,gorgeous.fund,available,15.99,,high,low,8,name.com,,,
@@ -957,7 +957,7 @@ b0729f66-fae4-4543-9e29-4883f5e520d5,amatory.fund,available,11.98,92.98,low,low,
 c533d38c-18d0-40d4-9b57-e502bfdca3a3,pulloff.fund,available,15.99,,medium,low,8,name.com,,,
 6ad307cc-4650-4149-88fa-8ad2f70c2641,grandmotherinlaw.fund,available,15.99,,high,low,18,name.com,,,
 b16db399-72e2-4357-8b03-b3a5d5440b30,maker.fund,resell,,,low,low,5,"DNSPod, Inc.",19/07/2018 08:15,19/07/2027 08:15,22/09/2026 01:52
-8f034977-bd36-4185-a2ac-495e150ecee5,test.fund,resell,,,low,low,4,Xin Net Technology Corporation,07/04/2019 21:11,07/04/2027 21:11,19/09/2026 10:44
+8f034977-bd36-4185-a2ac-495e150ecee5,test.fund,resell,,,low,low,4,Xin Net Technology Corporation,07/04/2019 21:11,07/04/2027 21:11,23/09/2026 08:26
 503c7531-0e68-4583-b19b-99c7ae27312d,polygon.fund,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",13/11/2021 13:15,13/11/2026 13:15,
 da6b0fd8-32bc-4cf7-933d-845a241ea82e,oncemore.fund,available,11.98,92.98,low,low,9,namecheap,,,13/09/2026 18:09
 7ac996e2-9417-4de9-af90-d230aea54200,daughter.fund,available,15.99,,high,low,8,name.com,,,
@@ -973,7 +973,7 @@ f31f664c-e804-4dea-9404-0b951d04fc30,interpersonal.fund,available,15.99,,high,lo
 93b16c1e-c0cf-4673-a663-3f313d54621a,awful.fund,available,14.99,71.99,low,low,5,namesilo,,,22/09/2026 15:06
 1c644f18-675b-42e3-8b72-add3ccbd3064,awfully.fund,available,14.99,71.99,low,low,7,namesilo,,,22/09/2026 15:26
 675151fe-1613-4f0b-b633-132d4523fedd,prevent.fund,available,15.99,,high,low,7,name.com,,,
-b27c0bbb-ffe8-4ad3-8175-33ec59788bac,laboratory.fund,available,15.99,,high,low,10,name.com,,,
+b27c0bbb-ffe8-4ad3-8175-33ec59788bac,laboratory.fund,available,15.99,92.99,medium,low,10,name.com,,,24/09/2026 03:29
 d446fe7b-ef11-442a-81e9-d58c3581054e,adventive.fund,available,11.98,92.98,low,low,9,namecheap,,,
 3059e675-9705-4939-817d-4b455c8c0e8c,kilogramme.fund,available,15.99,,medium,low,10,name.com,,,
 3964d0a3-6c9b-4510-8cd5-f4dd5f8aa936,anginal.fund,available,11.98,92.98,low,low,7,namecheap,,,
@@ -995,7 +995,7 @@ e0d0d0bd-836b-486a-8924-e7f6d12ec0d2,deserted.fund,available,11.98,92.98,low,low
 e96a29a8-5ee6-4d5c-ac25-0565d2d7226e,cinque.fund,available,11.98,92.98,low,low,6,namecheap,,,
 08a7cbbc-fcf6-42d7-a732-5d519003b23e,hindermost.fund,available,11.98,92.98,low,low,10,namecheap,,,08/08/2026 05:58
 25da563e-2fbb-4c0c-a91b-223b14615e29,howmuchisit.fund,available,15.99,,medium,low,14,name.com,,,
-ba1564f6-1fe7-4d1b-8f0e-99089c8405bf,comparable.fund,available,15.99,92.99,high,low,10,name.com,,,
+ba1564f6-1fe7-4d1b-8f0e-99089c8405bf,comparable.fund,available,11.98,92.98,medium,low,10,namecheap,,,23/09/2026 16:34
 37bf0520-7993-4cb0-bc78-1dde98a4e9eb,lxiii.fund,available,11.98,92.98,low,low,5,namecheap,,,
 20bb262a-d8ea-470d-b1f0-6108e1d88574,presentation.fund,available,15.99,,medium,low,12,name.com,,,
 b17c0997-4a6e-42b9-b6d6-bfab556406ec,aweigh.fund,available,11.98,92.98,low,low,6,namecheap,,,07/08/2026 14:29

@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fund one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,099 domains · **Median ask:** $18.02 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/fund`
 **Best for:** founders, investors, studios
 
@@ -74,7 +74,7 @@ print(df.head())
 | beam.fund | resell    | —         | —             | medium         | medium | 4      | DNSPod, Inc. |
 | gag.fund  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
 | xci.fund  | available | $11.98    | $92.98        | low            | low    | 3      | namecheap    |
-| chip.fund | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc. |
+| chip.fund | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc. |
 | hot.fund  | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo     |
 | ague.fund | available | $11.98    | $92.98        | low            | low    | 4      | namecheap    |
 | fine.fund | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc. |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUND One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUND One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
