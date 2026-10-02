@@ -1,10 +1,10 @@
-# Available .FUND One-Word Domains (28,781)
+# Available .FUND One-Word Domains (30,280)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C781%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C280%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .fund one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,781 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,280 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,781 domains · **Median ask:** $21.38 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 30,280 domains · **Median ask:** $21.36 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/fund`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | bpm.fund  | available | $14.99    | $71.99        | high           | low    | 3      | namesilo                                            |
-| ceo.fund  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                         |
+| aci.fund  | resell    | —         | —             | high           | low    | 3      | —                                                   |
 | dew.fund  | premium   | $108.90   | $108.90       | high           | low    | 3      | dynadot                                             |
 | cos.fund  | available | $11.98    | $92.98        | high           | medium | 3      | namecheap                                           |
-| fms.fund  | resell    | —         | —             | high           | low    | 3      | —                                                   |
+| ceo.fund  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                         |
 | emo.fund  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
+| cpp.fund  | available | $14.99    | $71.99        | high           | low    | 3      | namesilo                                            |
+| fms.fund  | resell    | —         | —             | high           | low    | 3      | —                                                   |
+| lax.fund  | premium   | $84.99    | $82.50        | medium         | low    | 3      | name.com                                            |
 | dcs.fund  | available | $8.78     | $59.07        | high           | low    | 3      | dynadot                                             |
 | aqua.fund | resell    | —         | —             | high           | medium | 4      | DNSPod, Inc.                                        |
-| lax.fund  | premium   | $84.99    | $82.50        | medium         | low    | 3      | name.com                                            |
+| lay.fund  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
 | dre.fund  | available | $55.20    | $55.20        | high           | low    | 3      | cloudflare                                          |
 | drug.fund | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| lay.fund  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
+| lid.fund  | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                           |
 | dsc.fund  | available | $8.78     | $59.07        | high           | low    | 3      | dynadot                                             |
 | good.fund | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                         |
-| lid.fund  | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                           |
+| mes.fund  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
 | fte.fund  | available | $10.55    | $57.13        | high           | low    | 3      | spaceship                                           |
 | head.fund | resell    | —         | —             | high           | low    | 4      | Xin Net Technology Corporation                      |
-| mes.fund  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
-| gao.fund  | available | $14.99    | $71.99        | medium         | low    | 3      | namesilo                                            |
-| jump.fund | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,781 live domains                        |
+| 1,000-row public sample | 30,280 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUND One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUND One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
